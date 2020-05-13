@@ -3,7 +3,7 @@
 ### Instructions:
 
 0) Install Python3 -- https://www.python.org/
-1) Install requirements.txt -- *pip install -r requirements.txt*
+1) Install requirements -- *pip install -r requirements.txt*
 2) Run *main.py*
 3) To get branches data you need to do API requests
 4) *get_cities_id* function is using russian capital letters [А-Я] to get cities id and returns a JSON with city_id and city_name 
